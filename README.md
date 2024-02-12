@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevenkanja
 - 👀 I’m interested in front-end development, linux systems and gaming.
-- 🌱 I’m currently learning Vue/Nuxt.
+- 🌱 I’m currently learning Nuxt 3, React and Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
